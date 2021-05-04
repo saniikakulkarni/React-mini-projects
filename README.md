@@ -1,4 +1,4 @@
-# React-mini-projects
+# Reactjs-mini-projects
 
 #### 5 mini projects that can be integrated with your website:
 1. Simple portfolio page
