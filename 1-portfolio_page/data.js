@@ -2,9 +2,24 @@
     {
         id:1,
         title:"Education",
-        school:["Vellore Institute of Technology, Btech Computer Sience","Mushtifund Aryaans Higher Secondary School","Sharada Mandir School"],
-        state:["Tamil Nadu","Goa","Goa"],
-        marks:["8.9 CGPA","84.6%","94.6%"]
+        edu1:{
+            school:"Vellore Institute of Technology",
+            mode:"Btech. Computer Science and Engineering",
+            state:"Tamil Nadu",
+            marks:"8.9 CGPA"
+        },
+        edu2:{
+            school:"Mushtifund Aryaans Higher Secondary School",
+            mode:"12th standard Goa State Board",
+            state:"Goa",
+            marks:"84.6%",
+        },
+        edu3:{
+            school:"Sharada Mandir School",
+            mode:"10th standard ICSE Board",
+            state:"Goa",
+            marks:"94.6%"
+        },
     },
     {
         id:2,
